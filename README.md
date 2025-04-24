@@ -1,10 +1,7 @@
 <h1 align="center">ScanBo</h1>
 <p align="center">
-  	<img src="https://img.shields.io/github/v/release/dunp3r/ScanBo?style=flat-square&include_prereleases" alt="Última versión de ScanBo" />
-	<a href="https://github.com/henrypp/simplewall/releases"><img src="https://img.shields.io/github/downloads/henrypp/simplewall/total.svg?style=flat-square" /></a>
-	<a href="https://github.com/henrypp/simplewall/issues"><img src="https://img.shields.io/github/issues-raw/henrypp/simplewall.svg?style=flat-square&label=issues" /></a>
-	<a href="https://github.com/henrypp/simplewall/graphs/contributors"><img src="https://img.shields.io/github/contributors/henrypp/simplewall?style=flat-square" /></a>
-	<a href="https://github.com/henrypp/simplewall/blob/master/LICENSE"><img src="https://img.shields.io/github/license/henrypp/simplewall?style=flat-square" /></a>
+	<img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="Versión dev" />
+	<a href="https://github.com/dunp3r/ScanBo/master/LICENSE"><img src="https://img.shields.io/github/license/dunp3r/ScanBo?style=flat-square" /></a>
 </p>
 
 
