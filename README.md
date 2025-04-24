@@ -1,4 +1,4 @@
-![image](https://github.com/DouglasMorean/ScanBo/assets/129215513/3e55f23c-b682-4ec8-976e-c39ef3842ddc)
+![image](https://github.com/dunp3r/ScanBo/assets/129215513/3e55f23c-b682-4ec8-976e-c39ef3842ddc)
 # ScanBo ![image](https://img.shields.io/badge/release-v1.0.0-blue)
 
 
